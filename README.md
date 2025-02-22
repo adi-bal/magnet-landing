@@ -24,5 +24,7 @@ Welcome to the landing page for our product! Follow the instructions below to ru
 Your website should now be running at `http://localhost:3000`.
 
 ## Screenshots of deployed front-end
+screenshot1:
 ![alt text](src/assets/webpagesc.png)
+screenshot2:
 ![alt text](src/assets/webpagesc2.png)
