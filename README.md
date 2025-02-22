@@ -1,6 +1,6 @@
 # Magnet Landing Page
 
-Welcome to the landing page for our product! Follow the instructions below to run this website and show your interest.
+Welcome to the landing page for our product! Follow the instructions below to run this website.
 
 ## Instructions to Run
 
@@ -21,4 +21,8 @@ Welcome to the landing page for our product! Follow the instructions below to ru
     npm run dev
     ```
 
-Your website should now be running at `http://localhost:3000`. Thank you for your interest!
+Your website should now be running at `http://localhost:3000`.
+
+## Screenshots of deployed front-end
+![alt text](src/assets/webpagesc.png)
+![alt text](src/assets/webpagesc2.png)
