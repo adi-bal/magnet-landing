@@ -6,7 +6,7 @@ Welcome to the landing page for our product! Follow the instructions below to ru
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/magnet-landing.git
+    git clone https://github.com/adi-bal/magnet-landing
     ```
 2. Navigate to the project directory:
     ```sh
