@@ -30,8 +30,8 @@ const Landing = () => {
                 
                 {/* Desktop Nav Links */}
                 <div className="nav-links desktop-only">
-                    <a href="/magnet-landing" className="nav-link">Home</a>
-                    <a href="/magnet-landing/contact">Contact</a>
+                    <a href="/magnet-landing/" className="nav-link">Home</a>
+                    <a href="/magnet-landing/contact" className='nav-link'>Contact</a>
                     <button className="nav-link demo-button" onClick={() => window.location.href='/#book-demo'}>Book a Demo</button>
                 </div>
                 
