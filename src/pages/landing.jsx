@@ -32,7 +32,7 @@ const Landing = () => {
                 <div className="nav-links desktop-only">
                     <a href="/magnet-landing/" className="nav-link">Home</a>
                     <a href="/magnet-landing/contact" className='nav-link'>Contact</a>
-                    <button className="nav-link demo-button" onClick={() => window.location.href='/#book-demo'}>Book a Demo</button>
+                    <button className="nav-link demo-button" onClick={() => window.location.href='https://calendly.com/lb827-cornell/30min'}>Book a Demo</button>
                 </div>
                 
                 {/* Mobile Menu Button */}
@@ -49,7 +49,7 @@ const Landing = () => {
             <div className={`mobile-menu ${isMenuOpen ? 'open' : ''}`}>
                 <div className="mobile-menu-content">
                     <a href="/#" className="mobile-nav-link">Home</a>
-                    <button className="mobile-demo-button" onClick={() => window.location.href='/#book-demo'}>Book a Demo</button>
+                    <button className="mobile-demo-button" onClick={() => window.location.href='https://calendly.com/lb827-cornell/30min'}>Book a Demo</button>
                 </div>
             </div>
             
@@ -57,7 +57,7 @@ const Landing = () => {
                 <div className="hero-content">
                     <h1>Magnet Legal AI</h1>
                     <h3>Transforming customer outreach for law firms with AI agents.</h3>
-                    <button className="demo-button pulse-animation" onClick={() => window.location.href='/#book-demo'}>Book a Demo</button>
+                    <button className="demo-button pulse-animation" onClick={() => window.location.href='https://calendly.com/lb827-cornell/30min'}>Book a Demo</button>
                 </div>
             </div>
             
